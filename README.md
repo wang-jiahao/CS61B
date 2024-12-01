@@ -7,5 +7,3 @@
 ## website
 
 https://sp21.datastructur.es/
-
-https://sp21.datastructur.es/
